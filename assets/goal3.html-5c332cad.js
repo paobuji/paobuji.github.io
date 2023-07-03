@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-198ee26e","path":"/needstudy/goal3.html","title":"无聊时候的目标","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688345889000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":3}]},"filePathRelative":"needstudy/goal3.md"}');export{e as data};

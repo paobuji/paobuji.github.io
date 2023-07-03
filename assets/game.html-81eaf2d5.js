@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-34c777a9","path":"/tool/game.html","title":"游戏笔记","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688182574000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/game.md"}');export{t as data};

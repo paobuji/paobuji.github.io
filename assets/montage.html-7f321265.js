@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4f1abf60","path":"/tool/montage.html","title":"目标","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688182574000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/montage.md"}');export{t as data};

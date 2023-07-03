@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7e140926","path":"/article/async-await.html","title":"实际工作中对async,await的理解","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688182574000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"article/async-await.md"}');export{a as data};

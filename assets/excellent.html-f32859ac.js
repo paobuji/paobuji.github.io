@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30918fbe","path":"/tool/excellent.html","title":"优秀的句子","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688182574000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/excellent.md"}');export{e as data};

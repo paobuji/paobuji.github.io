@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e3f0958a","path":"/tool/web-site.html","title":"有意思的网站","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1688274618000,"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":2}]},"filePathRelative":"tool/web-site.md"}');export{t as data};

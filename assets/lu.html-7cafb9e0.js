@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as o,a as e,b as l}from"./app-04d7a41c.js";const n={},s=e("ul",null,[e("li",null,"直接射出来就行了妈的"),e("li",null,[l("要把"),e("code",null,"不是"),l("这个口头禅给戒掉")])],-1),_=[s];function a(r,u){return c(),o("div",null,_)}const i=t(n,[["render",a],["__file","lu.html.vue"]]);export{i as default};
